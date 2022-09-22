@@ -264,6 +264,24 @@
 			"filterable": 1,
 			"ext": "https://gitcode.net/qq_20335565/zjds/-/raw/master/json/meiju562.json"
 		},
+		{ 
+            "key": "T4", 
+            "name": "T4爬虫", 
+            "type": 4, 
+            "api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=db18ac005cb34a5e91e8e26a0a828573", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1 
+        }, 
+        { 
+            "key":"t4_公共", 
+            "name":"公共(T4)", 
+            "type":4, 
+            "api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=5", 
+            "searchable":1, 
+            "quickSearch":1, 
+            "filterable":1 
+        },
 		{
 			"key":"293视频",
 			"name":"293视频",
@@ -993,27 +1011,17 @@
             "ext":"https://gitcode.net/qq_20335565/zjds/-/raw/master/json/xx5.json"
         },
 		//{"key":"Alist","name":"Alist(仅支持tvbox官版q仓)","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_20335565/zjds/-/raw/master/json/Alist.json"},
-		{
-			"key":"csp_bendi",
-		    "name":"本地文件（仅能播放视频）",
-		    "type":3,
-		    "api":"csp_LocalFile",
-		    "searchable":1,
-		    "quickSearch":0,
-		    "filterable":1,
-		    "type_flag":1
-	    },
         {
-            "key":"推送",
-            "name":"推送（爱优腾/阿里云盘/磁力链接）",
+            "key": "推送",
+            "name": "推送",
             "type":3,
             "api":"csp_PushAgent",
             "searchable":0,
             "quickSearch":0,
             "filterable":0,
-            "ext":"db18ac005cb34a5e91e8e26a0a828573"
+            "ext": "db18ac005cb34a5e91e8e26a0a828573"
         }
-         ],
+],
     "lives":[
     {"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9xcV8yMDMzNTU2NS96amRzLy0vcmF3L21hc3Rlci9saXZlLnR4dA=="]}]}],
     "parses":[
