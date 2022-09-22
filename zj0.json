@@ -684,16 +684,6 @@
 			"ext":""
 		},
 		{
-			"key":"csp_xpath_6d",
-			"name":"六度TV(XPF)",
-			"type":3,
-			"api":"csp_XPathMacFilter",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://gitcode.net/qq_20335565/zjds/-/raw/master/json/6d.json"
-		},
-		{
 			"key":"csp_biubiu_骚火电影",
 			"name":"骚火电影(XB)",
 			"type":3,
