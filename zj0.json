@@ -86,11 +86,11 @@
             "quickSearch":1,
             "filterable":1,
 		    "ext":"db18ac005cb34a5e91e8e26a0a828573"
-			//"ext": "dcbc975ad0684eb5a498ecd1836272e6"
-            //"ext": "3781469b13074e4cac1e0e7113e4fa20"
-            //"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
-            //"ext": "7bb5b24ca3274ad781a6071082e9eebd
-            //{"key": "聚合","name": "聚合影视","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1"ext":"https://gitcode.net/qq_20335565/zjds/-/raw/master/json/XYQBiu.json"
+			//"ext":"dcbc975ad0684eb5a498ecd1836272e6"
+            //"ext":"3781469b13074e4cac1e0e7113e4fa20"
+            //"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"
+            //"ext":"7bb5b24ca3274ad781a6071082e9eebd
+            //{"key":"聚合","name":"聚合影视","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable": 1"ext":"https://gitcode.net/qq_20335565/zjds/-/raw/master/json/XYQBiu.json"
             //},
 	    },
 		{
