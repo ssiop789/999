@@ -636,16 +636,16 @@
 			"quickSearch":1,
 			"filterable":1
 		},
-        {
-            "key":"饭团影视",
-            "name":"饭团影视(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/ftys.json"
-        },
+		{
+			"key":"csp_xbb_ftHD",
+			"name":"饭团影视",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://gitcode.net/qq_20335565/zjds/-/raw/master/json/fthd.json"
+		},
 		{
 			"key":"csp_QQ",
 			"name":"SP腾讯官采",
@@ -674,16 +674,6 @@
 			"filterable":1
 		},
 		{
-			"key":"KanSJ_spider",
-			"name":"看视界",
-			"api":"csp_KanSJ",
-			"type":3,
-			"filterable":1,
-			"quickSearch":1,
-			"searchable":1,
-			"ext":""
-		},
-		{
 			"key":"csp_biubiu_骚火电影",
 			"name":"骚火电影(XB)",
 			"type":3,
@@ -692,16 +682,6 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://gitcode.net/qq_20335565/zjds/-/raw/master/json/shdy.json"
-		},
-		{
-			"key":"csp_xbb_ftHD",
-			"name":"饭团影视",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://gitcode.net/qq_20335565/zjds/-/raw/master/json/fthd.json"
 		},
         {
             "key":"蓝光影院",
