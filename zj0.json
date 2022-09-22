@@ -1135,7 +1135,7 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-	//"wallpaper":"https://bg.s.welsun.win/api",
+    "wallpaper":"https://bg.s.welsun.win/api,
+	//"wallpaper":"https://picsum.photos/1280/720/?blur=10",
     "spider":"https://gitcode.net/qq_20335565/zjds/-/raw/master/jar/0918.jar"
 }
