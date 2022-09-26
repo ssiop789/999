@@ -1,8 +1,4 @@
 {
-	"wallpaper":"https://bg.s.welsun.win/api",
-	//"wallpaper":"https://picsum.photos/1280/720/?blur=10",
-    "spider":"https://gitcode.net/qq_20335565/zjds/-/raw/master/jar/gg0925.jar"
-	
 	// 豆瓣热搜
     "hotSearch": [{
     "name": "mobilesearch",
@@ -1139,4 +1135,8 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
+    "wallpaper":"https://bg.s.welsun.win/api",
+	//"wallpaper":"https://picsum.photos/1280/720/?blur=10",
+    "spider":"https://gitcode.net/qq_20335565/zjds/-/raw/master/jar/gg0925.jar"
+	
 }
