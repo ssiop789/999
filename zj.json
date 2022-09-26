@@ -633,7 +633,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "jar":"https://gitcode.net/qq_20335565/zjds/-/raw/master/jar/yisozc.jar",
-			      "ext": "db18ac005cb34a5e91e8e26a0a828573"
+			"ext": "db18ac005cb34a5e91e8e26a0a828573"
         },
         {
             "key": "push_agent",
