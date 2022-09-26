@@ -133,14 +133,14 @@
 			"filterable":1
 		},
         {
-            "key":"csp_xBPQ_在线",
-            "name":"在线之家(XBPQ)",
-            "type":3,
-            "api":"csp_xBPQ",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitcode.net/qq_20335565/zjds/-/raw/master/json/zxzj2.json"
+            "key": "csp_xBPQ_在线",
+            "name": "在线之家(XBPQ)",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+			"ext":"https://gitcode.net/qq_20335565/zjds/-/raw/master/json/zxzj2.json"
         },
         {   //{"key": "哔滴影视","name": "哔滴影视(爬虫)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},
             "key":"哔滴影视",
